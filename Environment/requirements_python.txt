@@ -1,0 +1,10 @@
+biopython==1.84
+matplotlib==3.10.0
+matplotlib-inline==0.1.6
+numpy==1.23.5
+pandas==2.2.3
+pandas-stubs==2.2.3.241126
+requests==2.32.3
+scipy==1.13.1
+seaborn==0.13.2
+SigProfilerExtractor==1.2.2
