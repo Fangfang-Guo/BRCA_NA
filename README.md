@@ -49,7 +49,7 @@ Scripts for extracting and testing mutational signatures.
 ### 5. Multi-Omics Pathway Analysis
 Scripts for integrative analysis across DNA, CNV, and RNA.
 
-- `multiomic_kegg_heatmap.R` – Generate KEGG pathway heatmap integrating DNA, CNV, and RNA results  
+`multiomic_kegg_heatmap.R` – Generate KEGG pathway heatmap integrating DNA, CNV, and RNA results  
 
 
 
